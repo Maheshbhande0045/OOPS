@@ -12,4 +12,4 @@ int main()
     }
     cout << "Sum of even numbers between 1 to 50 = " << sum;
     return 0;
-}
+}  
