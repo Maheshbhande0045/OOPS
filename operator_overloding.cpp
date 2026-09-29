@@ -27,7 +27,7 @@ public:
     complex operator+(complex b)
     {
         complex res;
-
+                                                   
         res.r = r + b.r;
         res.i = i + b.i;
 
